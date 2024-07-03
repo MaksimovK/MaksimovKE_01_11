@@ -1,0 +1,14 @@
+C:\Users\kmaki\source\repos\MaksimovKE_01_11\MaksimovKE_01_11\bin\Debug\net8.0\MaksimovKE_01_11.exe
+C:\Users\kmaki\source\repos\MaksimovKE_01_11\MaksimovKE_01_11\bin\Debug\net8.0\MaksimovKE_01_11.deps.json
+C:\Users\kmaki\source\repos\MaksimovKE_01_11\MaksimovKE_01_11\bin\Debug\net8.0\MaksimovKE_01_11.runtimeconfig.json
+C:\Users\kmaki\source\repos\MaksimovKE_01_11\MaksimovKE_01_11\bin\Debug\net8.0\MaksimovKE_01_11.dll
+C:\Users\kmaki\source\repos\MaksimovKE_01_11\MaksimovKE_01_11\bin\Debug\net8.0\MaksimovKE_01_11.pdb
+C:\Users\kmaki\source\repos\MaksimovKE_01_11\MaksimovKE_01_11\obj\Debug\net8.0\MaksimovKE_01_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmaki\source\repos\MaksimovKE_01_11\MaksimovKE_01_11\obj\Debug\net8.0\MaksimovKE_01_11.AssemblyInfoInputs.cache
+C:\Users\kmaki\source\repos\MaksimovKE_01_11\MaksimovKE_01_11\obj\Debug\net8.0\MaksimovKE_01_11.AssemblyInfo.cs
+C:\Users\kmaki\source\repos\MaksimovKE_01_11\MaksimovKE_01_11\obj\Debug\net8.0\MaksimovKE_01_11.csproj.CoreCompileInputs.cache
+C:\Users\kmaki\source\repos\MaksimovKE_01_11\MaksimovKE_01_11\obj\Debug\net8.0\MaksimovKE_01_11.dll
+C:\Users\kmaki\source\repos\MaksimovKE_01_11\MaksimovKE_01_11\obj\Debug\net8.0\refint\MaksimovKE_01_11.dll
+C:\Users\kmaki\source\repos\MaksimovKE_01_11\MaksimovKE_01_11\obj\Debug\net8.0\MaksimovKE_01_11.pdb
+C:\Users\kmaki\source\repos\MaksimovKE_01_11\MaksimovKE_01_11\obj\Debug\net8.0\MaksimovKE_01_11.genruntimeconfig.cache
+C:\Users\kmaki\source\repos\MaksimovKE_01_11\MaksimovKE_01_11\obj\Debug\net8.0\ref\MaksimovKE_01_11.dll

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kmaki\\source\\repos\\MaksimovKE_01_11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{371C2562-BB6C-422D-9BDE-3750B12FD3B2}|MaksimovKE_01_11\\MaksimovKE_01_11.csproj|c:\\users\\kmaki\\source\\repos\\maksimovke_01_11\\maksimovke_01_11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{371C2562-BB6C-422D-9BDE-3750B12FD3B2}|MaksimovKE_01_11\\MaksimovKE_01_11.csproj|solutionrelative:maksimovke_01_11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{371C2562-BB6C-422D-9BDE-3750B12FD3B2}|MaksimovKE_01_11\\MaksimovKE_01_11.csproj|c:\\users\\kmaki\\source\\repos\\maksimovke_01_11\\maksimovke_01_11\\classes\\dogdescendant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{371C2562-BB6C-422D-9BDE-3750B12FD3B2}|MaksimovKE_01_11\\MaksimovKE_01_11.csproj|solutionrelative:maksimovke_01_11\\classes\\dogdescendant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F80D857-9EBC-430E-8825-873895E62318}|MaksimovKE_02_11\\MaksimovKE_02_11.csproj|c:\\users\\kmaki\\source\\repos\\maksimovke_01_11\\maksimovke_02_11\\dogtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F80D857-9EBC-430E-8825-873895E62318}|MaksimovKE_02_11\\MaksimovKE_02_11.csproj|solutionrelative:maksimovke_02_11\\dogtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{371C2562-BB6C-422D-9BDE-3750B12FD3B2}|MaksimovKE_01_11\\MaksimovKE_01_11.csproj|c:\\users\\kmaki\\source\\repos\\maksimovke_01_11\\maksimovke_01_11\\classes\\dogbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{371C2562-BB6C-422D-9BDE-3750B12FD3B2}|MaksimovKE_01_11\\MaksimovKE_01_11.csproj|solutionrelative:maksimovke_01_11\\classes\\dogbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kmaki\\source\\repos\\MaksimovKE_01_11\\MaksimovKE_01_11\\Program.cs",
+              "RelativeDocumentMoniker": "MaksimovKE_01_11\\Program.cs",
+              "ToolTip": "C:\\Users\\kmaki\\source\\repos\\MaksimovKE_01_11\\MaksimovKE_01_11\\Program.cs",
+              "RelativeToolTip": "MaksimovKE_01_11\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T07:09:35.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DogTests.cs",
+              "DocumentMoniker": "C:\\Users\\kmaki\\source\\repos\\MaksimovKE_01_11\\MaksimovKE_02_11\\DogTests.cs",
+              "RelativeDocumentMoniker": "MaksimovKE_02_11\\DogTests.cs",
+              "ToolTip": "C:\\Users\\kmaki\\source\\repos\\MaksimovKE_01_11\\MaksimovKE_02_11\\DogTests.cs",
+              "RelativeToolTip": "MaksimovKE_02_11\\DogTests.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T07:08:04.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DogDescendant.cs",
+              "DocumentMoniker": "C:\\Users\\kmaki\\source\\repos\\MaksimovKE_01_11\\MaksimovKE_01_11\\Classes\\DogDescendant.cs",
+              "RelativeDocumentMoniker": "MaksimovKE_01_11\\Classes\\DogDescendant.cs",
+              "ToolTip": "C:\\Users\\kmaki\\source\\repos\\MaksimovKE_01_11\\MaksimovKE_01_11\\Classes\\DogDescendant.cs",
+              "RelativeToolTip": "MaksimovKE_01_11\\Classes\\DogDescendant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T06:49:08.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DogBase.cs",
+              "DocumentMoniker": "C:\\Users\\kmaki\\source\\repos\\MaksimovKE_01_11\\MaksimovKE_01_11\\Classes\\DogBase.cs",
+              "RelativeDocumentMoniker": "MaksimovKE_01_11\\Classes\\DogBase.cs",
+              "ToolTip": "C:\\Users\\kmaki\\source\\repos\\MaksimovKE_01_11\\MaksimovKE_01_11\\Classes\\DogBase.cs",
+              "RelativeToolTip": "MaksimovKE_01_11\\Classes\\DogBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T06:18:47.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
